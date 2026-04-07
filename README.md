@@ -17,7 +17,7 @@ unzip solovendor_deploy.zip
 
 bash deploy.sh 
 
-let the script run, fill in what it asks for password and amdin name
+let the script run, fill in what it asks for password and admin name
 
 Set your wallet on the market and XMR or BTC Rate. 
 Udpate this every few hours. 
